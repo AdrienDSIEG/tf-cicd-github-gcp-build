@@ -20,6 +20,8 @@
   
   ![image](https://github.com/user-attachments/assets/69d2c330-e571-491e-ac4a-b75296e0f416)
 
+  ![image](https://github.com/user-attachments/assets/8216b888-2a3e-4e59-88e0-08f01ece6528)
+
   # How to embed / integrate your local Git Bash to your local VS Studio Code?
 
   
