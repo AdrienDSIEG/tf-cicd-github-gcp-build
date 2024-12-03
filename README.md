@@ -6,6 +6,7 @@
 - Install Git Bash
 - Install Docker
 - Install Python 3
+- Install GCloud
 
   # How to connect your local Git Bash to your Github Account?
   ```
