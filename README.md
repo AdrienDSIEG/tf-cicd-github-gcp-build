@@ -24,7 +24,13 @@
 
   # How to embed / integrate your local Git Bash to your local VS Studio Code?
 
-  
+  # Your first push
+    ```
+  git config --global user.name "AdrienDSIEG"
+  git config --global user.email "siegadrien@gmail.com"
+
+  git config global --list
+  ```
 
   
   
